@@ -33,3 +33,5 @@ Folder_Reports
 ehthumbs.db
 Thumbs.db
 
+/Cron_Build
+/src/Libraries
