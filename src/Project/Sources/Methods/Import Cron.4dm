@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true,"shared":true,"preemptive":"capable"}
+//%attributes = {"invisible":true,"shared":true}
 /**
 * This is public method and used in host application to receive Cron component's class store.
 *
